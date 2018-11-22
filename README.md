@@ -1,6 +1,6 @@
 ### seajs
 ---
-https://github.com/duojs/duo
+https://github.com/seajs/seajs
 
 ```
 ```
